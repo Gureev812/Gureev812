@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Gureev812/Gureev812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello world! Gureev812 is on touch👋</a> 
+
+<h2 align="center">X-ray technician ☢, engineer and also a kind of scientist</h2>
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
