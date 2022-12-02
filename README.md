@@ -1,6 +1,11 @@
 <h1 align="center">Hello world! Gureev812 is on touch👋</a> 
 
-<h2 align="center">X-ray technician ☢, engineer and also a kind of scientist 🥼 </h2>
+<h2 align="center">X-ray technician, engineer, and also a kind of scientist ☢ 🥼 ⚙</h2>
+
+¯ \ _ (ツ) _ / ¯
+
+
+
 
 Here are some ideas to get you started:
 
