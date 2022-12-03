@@ -1,4 +1,5 @@
-<h1 align="center">Hello world, Gureev812 is on touch! ☢ ⚙ 🥼 </a> 
+<h1 align="center">Hello world, Gureev812 is on touch! ☢ ⚙ 🥼 <br />
+      x-ray mechanic, engineer, and also a kind of scientist ¯ \ _ (ツ) _ / ¯</a> 
 
 <h2 align="center">X-ray mechanic, engineer, and also a kind of scientist ¯ \ _ (ツ) _ / ¯ </h2>
 
