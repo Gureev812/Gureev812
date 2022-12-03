@@ -3,6 +3,8 @@
 <h2 align="center">x-ray mechanic, engineer, and also a kind of scientist <br /> ¯ \ _ (ツ) _ / ¯ </h2>
 
 
+
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +15,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+```python
+class Gureev812(Human):
+
+    firstname = "Andrew"
+    lastname = "Gureev"
+    username = "gureev812"
+
+    toolbox = ["Python", "Jupyter Notebook", "MySQL", "Pandas", "Numpy",
+               "Sklearn", "Matplotlib", "Seaborn", "SkiPy"]
+               
+    passions = ["Data Science", "Machine Learning", "Statistics",
+                "Programming", "Cats"]
+
+    education = {"name": "Яндекс.Практикум",
+                 "link": "https://praktikum.yandex.ru/data-scientist",
+                 "started_at": "2020-04-14T15:00:00Z",
+                 "finished_at": "2021-01-14T15:00:00Z"}
+```
 
