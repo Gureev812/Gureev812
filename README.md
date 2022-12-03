@@ -28,9 +28,10 @@ class Gureev812(Human):
     passions = ["Data Science", "Machine Learning", "Statistics",
                 "Programming", "Cats"]
 
-    education = {"name": "Яндекс.Практикум",
+    education = {"name": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", "Яндекс.Практикум"]
+                 "specialization": ["Infocommunication technologies and communication systems", "Data Science"]
                  "link": "https://praktikum.yandex.ru/data-scientist",
                  "started_at": "2020-04-14T15:00:00Z",
                  "finished_at": "2021-01-14T15:00:00Z"}
 ```
-
+The Bonch-Bruevich Saint Petersburg State University of Telecommunications
