@@ -1,6 +1,6 @@
-<h1 align="center">Hello world, Gureev812 is on touch! ☢ ⚙ 🥼 </a> 
+<h1 align="center">Всем привет, на связи Gureev812! ☢ ⚙ 🥼 </a> 
 
-<h2 align="center">x-ray mechanic, engineer, and also a kind of scientist <br /> ¯ \ _ (ツ) _ / ¯ </h2>
+<h2 align="center">ренгеномеханик, иженер, а также, своего рода, ученый <br /> ¯ \ _ (ツ) _ / ¯ </h2>
 
 
 
