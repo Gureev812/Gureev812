@@ -37,4 +37,4 @@ class Gureev812(Human):
                  "started_at": "2020-04-14T15:00:00Z",
                  "finished_at": "2021-01-14T15:00:00Z"}
 ```
-The Bonch-Bruevich Saint Petersburg State University of Telecommunications
+
