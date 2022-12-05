@@ -3,8 +3,8 @@
 <h2 align="center">рентгеномеханик, инженер, а также, своего рода, ученый =) <br /> ¯ \ _ (ツ) _ / ¯ </h2>
 
 ### Как со мной связаться ✉️
-- [gureev812@yandex.ru](mailto:gureev812@yandex.ru)
-
+- mail: [gureev812@yandex.ru](mailto:gureev812@yandex.ru)
+- telegram: [https://t.me/gureev812](https://t.me/gureev812)
  
 Here are some ideas to get you started:
 
