@@ -16,8 +16,8 @@ class Gureev812(Human):
     toolbox = ["Python", "Jupyter Notebook", "PostgreSQL", "Pandas", "Numpy",
                "Sklearn", "Keras", "Matplotlib", "Seaborn", "SkiPy"]
                
-    passions = ["Math", "Physics", "Chemistry", "Engeneering", "Data Science",
-                "Data analysis", "Machine Learning", "Statistics","Programming"]
+    passions = ["Math", "Physics", "Chemistry", "Engeneering", "X-ray technologies", 
+                "Statistics", "Data Science", "Data analysis", "Machine Learning"]
 
     education = {"alma mater": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
                                 "Яндекс.Практикум"],
