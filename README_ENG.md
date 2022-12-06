@@ -21,10 +21,10 @@ class Gureev812(Human):
 
     education = {"alma_mater": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
                                 "Yandex.Practikum"],
-                 "specialization": ["Infocommunication technologies and communication systems", 
-                                    "Data Science"]
-                 "link": ["https://www.sut.ru/", 
-                          "https://praktikum.yandex.ru/data-scientist"]
                  "training_period": ["2016-09-01:2021-06-25", 
-                                     "2022-01-11:2022-09-11"]}
+                                     "2022-01-11:2022-09-11"],
+                 "specialization": ["Infocommunication technologies and communication systems", 
+                                    "Data Science"],
+                 "link": ["https://www.sut.ru/", 
+                          "https://praktikum.yandex.ru/data-scientist"]}
 ```
