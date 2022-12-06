@@ -23,18 +23,20 @@ class Gureev812(Human):
     lastname = "Gureev"
     username = "gureev812"
 
-    toolbox = ["Python", "Jupyter Notebook", "MySQL", "Pandas", "Numpy",
-               "Sklearn", "Matplotlib", "Seaborn", "SkiPy"]
+    toolbox = ["Python", "Jupyter Notebook", "PostgreSQL", "Pandas", "Numpy",
+               "Sklearn", "Keras", "Matplotlib", "Seaborn", "SkiPy"]
                
-    passions = ["Data Science", "Machine Learning", "Statistics",
-                "Programming", "Cats"]
+    passions = ["Math", "Physics", "Chemistry", "Engeneering", "Data Science",
+                "Data analysis", "Machine Learning", "Statistics","Programming"]
 
-    education = {"name": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
-                          "Яндекс.Практикум"],
+    education = {"alma mater": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
+                                "Яндекс.Практикум"],
                  "specialization": ["Infocommunication technologies and communication systems", 
                                     "Data Science"]
-                 "link": "https://praktikum.yandex.ru/data-scientist",
-                 "started_at": "2020-04-14T15:00:00Z",
-                 "finished_at": "2021-01-14T15:00:00Z"}
+                 "link": ["https://www.sut.ru/", 
+                          "https://praktikum.yandex.ru/data-scientist"]
+                 "training period": ["2016-09-01:2021-06-25", 
+                                     "2022-01-11:2022-09-11"]
+                 }
 ```
 
