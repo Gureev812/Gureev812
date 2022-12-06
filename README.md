@@ -36,7 +36,6 @@ class Gureev812(Human):
                  "link": ["https://www.sut.ru/", 
                           "https://praktikum.yandex.ru/data-scientist"]
                  "training period": ["2016-09-01:2021-06-25", 
-                                     "2022-01-11:2022-09-11"]
-                 }
+                                     "2022-01-11:2022-09-11"]}
 ```
 
