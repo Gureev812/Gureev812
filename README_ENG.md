@@ -19,8 +19,8 @@ class Gureev812(Human):
     passions = ["Math", "Physics", "Chemistry", "Engeneering", "X-ray technologies", 
                 "Statistics", "Data Science", "Data analysis", "Machine Learning"]
 
-    education = {"alma mater": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
-                                "Яндекс.Практикум"],
+    education = {"alma_mater": ["The Bonch-Bruevich Saint Petersburg State University of Telecommunications", 
+                                "Yandex.Practikum"],
                  "specialization": ["Infocommunication technologies and communication systems", 
                                     "Data Science"]
                  "link": ["https://www.sut.ru/", 
